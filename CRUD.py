@@ -8,7 +8,7 @@ try:
     conn=mysql.connector.connect(
         host="127.0.0.1",
         user="root",
-        password="rhtdm420",
+        password="password",
         database="crud_python"
 
     )
